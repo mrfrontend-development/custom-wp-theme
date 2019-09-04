@@ -1,0 +1,13 @@
+{
+	"name": "mrfrontend-custom-theme",
+	"version": "1.0.0",
+	"description": "[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "parcel ./index.js --hmr-hostname mrfrontend.local"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
