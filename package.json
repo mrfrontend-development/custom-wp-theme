@@ -5,7 +5,8 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "parcel ./index.js --hmr-hostname mrfrontend.local"
+		"start": "parcel ./index.js",
+		"build": "parcel build ./index.js"
 	},
 	"keywords": [],
 	"author": "",
